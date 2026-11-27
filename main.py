@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 # One job title, 39 characters, within the 60 character limit.
+# Written with no trailing newline; deterministic, no network.
 LINE = "Senior Apologizer for Self-Driving Cars"
 
 
